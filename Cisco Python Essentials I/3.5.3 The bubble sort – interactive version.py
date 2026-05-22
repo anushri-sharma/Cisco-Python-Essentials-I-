@@ -37,4 +37,21 @@ my_list.sort()
 print(my_list)
 
 
+----------------------------------------------------------------------------------------------------------------
+
+# Python Sorting Interactive Version
+
+my_list = []
+swapped = True
+num = int(input("How many elements do you want to sort: "))
+
+for i in range(num):
+    val = float(input("Enter a list element: "))
+    my_list.append(val)
+    
+my_list.sort()
+print(my_list)
+
+
+
 
