@@ -28,7 +28,7 @@ Enter a list element: 98
 Sorted:
 [21.0, 42.0, 98.0]
 ```
-
+--- 
 > Python, however, has its own sorting mechanisms.
 
 > If you want Python to sort your list, you can do it like this:
