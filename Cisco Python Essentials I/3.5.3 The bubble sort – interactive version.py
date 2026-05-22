@@ -42,7 +42,7 @@ print(my_list)
 # Python Sorting Interactive Version
 
 my_list = []
-swapped = True
+#swapped = True
 num = int(input("How many elements do you want to sort: "))
 
 for i in range(num):
