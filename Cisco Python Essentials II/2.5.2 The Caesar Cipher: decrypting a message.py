@@ -3,6 +3,7 @@
 ```python
 
 # Caesar cipher - decrypting a message.
+
 cipher = input('Enter your cryptogram: ')
 text = ''
 for char in cipher:
